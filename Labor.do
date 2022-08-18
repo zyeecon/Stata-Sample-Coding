@@ -1,4 +1,4 @@
-cd "C:\731 HW2"
+cd "C:\zye_labor"
 use "ASEC_2019_Data_HW2", clear
 log using 731_hw2, replace
 
