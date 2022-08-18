@@ -1,6 +1,6 @@
 cd "C:\zye_labor"
-use "ASEC_2019_Data_HW2", clear
-log using 731_hw2, replace
+use "ASEC_2019_Data", clear
+log using zye_labor, replace
 
 gen agesq = a_age^2 
 gen nonlainc = (htotval- pearnval)/1000
